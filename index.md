@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Copyright and Open Source Ethics](/pdf/EvanHill_CSCI301_EthicsPaper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 301 
+-   **Grade:** 100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [ChatGPT and its Consequences for Computing and Business Fields](/pdf/EvanHill_CSCI325_EthicsPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 325
+-   **Grade:** 100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Software Testing: Does the Short-Term Cost Outweigh the Long-Term Benefits?](/pdf/EvanHillCSCI315EthicsPaper_Spring2024.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 315
+-   **Grade:** 100
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [The Target Breach: What You Need to Know](/pdf/EvanHillSecurityPresentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 301
+- **Grade:** 100
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [George Hotz and Sony PlayStation](/pdf/EvanHill_GeorgeHotzAndSonyPlayStation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405
+- **Grade:** 100
 
 ---
 
