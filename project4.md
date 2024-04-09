@@ -10,7 +10,6 @@ D Latch
     (Please [email me](mailto:echill@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-
 This project is a re-creation of a D Latch circuit made using the iVerilog HDL (Hardware Definition Language)
 
 ## How to compile and run the program
