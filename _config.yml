@@ -10,7 +10,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://docs.google.com/document/d/1T2yQ-vBleAr3YU43ZBO6acI58iAVp9m8/edit?usp=sharing&ouid=100852645830968979486&rtpof=true&sd=true">View My Resume</a>
   <br /><br />
   <a href="www.linkedin.com/in/evan-hill-b42b0829a">View My LinkedIn Profile</a>
-repository: "echill76/echill76.github.io"
+repository: "https://echill76/echill76.github.io"
 github_username:  echill76 # update with your username
 google_analytics: G-H4806PGWRM # your Google Analytics tracking ID here
 
