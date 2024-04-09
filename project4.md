@@ -23,13 +23,7 @@ D Latch Run Command: ./d-latch-output.out
 ## UI Design
 The test program is designed to be easy to read while still providing all the necessary information.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/EvanHill_CSCI330_Lab04_Running_DLatch.png)  
+Fig. 1: Test program running
 
 [Back to Portfolio](./)
